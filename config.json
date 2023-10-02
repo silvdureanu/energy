@@ -1,0 +1,10 @@
+{
+    "learning_rates": [0.005],
+    "plastic_ratios": [5],
+    "nr_totals": [1000],
+    "losses": ["KL"],
+    "hidden_activations": ["lrelu"],
+    "algorithms": ["fixed"],
+    "sample_size": 4,
+    "prefix": "./"
+}
